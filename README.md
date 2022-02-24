@@ -6,6 +6,6 @@ A bee's flight path has a general directionality (Diagonally upwards). However, 
 
 A stock's price movement also has the element of general directionality (Diagonally upwards), but randomly moves upwards and downwards. 
 
-By piecing together 3 different stock prices, the combined coordinates of the prices seems to somewhat mimic the upward flight of a bee. 
+By piecing together 3 different stock prices (AAPL, AMZN, MSFT), the combined coordinates of the prices seems to somewhat capture the subtle random movements in the upward flight of a bee. 
 
 ![flight](https://i.imgur.com/EJytcyA.png)
